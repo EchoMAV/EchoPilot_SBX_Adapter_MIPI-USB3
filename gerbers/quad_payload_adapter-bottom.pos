@@ -1,0 +1,8 @@
+### Footprint positions - created on Thu Feb  1 11:05:16 2024 ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                    PosX       PosY       Rot  Side
+J2        DF40GB-70DP-0.4V(58)
+  DF40GB70DP04V58_REV1    96.0000  -100.0000   90.0000  bottom
+## End
